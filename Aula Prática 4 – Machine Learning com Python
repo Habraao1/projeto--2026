@@ -1,0 +1,23 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "ghafRi_4K6P-"
+      }
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Get_started_managed_agents.ipynb",
+      "provenance": []
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
